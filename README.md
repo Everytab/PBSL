@@ -1,6 +1,10 @@
 # Pointless BASIC Scripting Language
 
-Its pointless. It runs *.pbsl files. The entire syntax is 2 letters long
+Its pointless. It runs *.pbsl files. The entire syntax is 2 letters long.
+
+https://github.com/Everytab/PBSL/blob/main/PBSL.exe - qb64 compile
+
+https://github.com/Everytab/PBSL/blob/main/pbsl.exe - FreeBASIC compile
 
 ### Commands (Current set is very crude and barebones, more will be added soon)
 
