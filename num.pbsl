@@ -1,0 +1,11 @@
+cl
+pr PBSL Sample program
+pr Enter a number
+ii a
+sl
+pr you entered
+pi a
+sl
+pr Program has ended. Now chaining str.pbsl
+pa
+cs str

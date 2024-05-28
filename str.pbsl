@@ -1,0 +1,7 @@
+cl
+pr PBSL Sample Program
+pr Enter a word
+is a
+pr You entered
+ps a
+en
