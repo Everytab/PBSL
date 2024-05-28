@@ -97,6 +97,10 @@ Do
     ElseIf cmdf$ = "sl" Then
         Print ""
 
+    ElseIf cmdf$ = "zz" Then
+    ` friends wanted an easter egg
+    print "sudeep"
+
     Else
         GoTo syntax
     End If
